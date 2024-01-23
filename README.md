@@ -1,6 +1,6 @@
 
 
-# 首頁
+# note-about-kubuntu
 
 | Link | GitHub |
 | ---- | ------ |
