@@ -12,7 +12,17 @@
 
 ## 主題
 
+* [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| -------- |
+| [24.04](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
 
 
 
