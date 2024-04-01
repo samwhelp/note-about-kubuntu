@@ -25,9 +25,9 @@ parent: 設定
 
 ## 設定檔
 
-這篇的根據，是採用「[客製的設定](https://github.com/samwhelp/note-about-kubuntu/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)」，
+這篇的根據，是採用「[客製的設定](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark)」，
 
-請參考「我的設定檔: [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc)」。
+請參考「我的設定檔: [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc)」。
 
 
 還有參考另一篇「[如何設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
