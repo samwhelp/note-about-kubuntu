@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [輸入法](#輸入法)
 * [相關筆記](#相關筆記)
 
@@ -24,6 +25,16 @@
 | 微調腳本 |
 | -------- |
 | [Kubuntu 24.04](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-kubuntu/read/config/mousebind.html) |
 
 
 
