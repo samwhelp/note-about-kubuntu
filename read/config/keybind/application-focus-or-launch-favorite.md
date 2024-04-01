@@ -14,7 +14,7 @@ grand_parent: 設定
 
 ## 常用的應用程式
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L259-L268)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L259-L268)
 
 
 | 按鍵組合          | 功能     | 執行指令         |

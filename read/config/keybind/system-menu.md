@@ -14,7 +14,7 @@ grand_parent: 設定
 
 ## 顯示「視窗操作選單」
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L144)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L144)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -26,7 +26,7 @@ grand_parent: 設定
 
 ## 顯示「開始功能表」
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L265)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L265)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -50,7 +50,7 @@ grand_parent: 設定
 
 ## krunner
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L213-L216)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L213-L216)
 
 
 | 按鍵組合           | 功能        | 執行指令             |
@@ -60,7 +60,7 @@ grand_parent: 設定
 
 ## System Activity
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L26)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L26)
 
 
 | 按鍵組合           | 功能        | 執行指令             |

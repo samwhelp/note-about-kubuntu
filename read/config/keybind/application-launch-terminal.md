@@ -14,7 +14,7 @@ grand_parent: 設定
 
 ## 一般
 
-* [設定片段 / konsole](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L207-L211)
+* [設定片段 / konsole](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L207-L211)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
@@ -23,7 +23,7 @@ grand_parent: 設定
 | `Alt + Shift + t` | 開啟 Terminal | `konsole`                 |
 
 
-* [設定片段 / sakura](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L300-L302)
+* [設定片段 / sakura](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L300-L302)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
@@ -33,7 +33,7 @@ grand_parent: 設定
 
 ## 下拉式
 
-* [設定片段 / yakuake](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L236-L238)
+* [設定片段 / yakuake](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L236-L238)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------------------- | ---------------------------- |
@@ -43,7 +43,7 @@ grand_parent: 設定
 > 這個綁定，即使「yakuake」沒有常駐，也能觸發。
 
 
-* [設定片段 / yakuake](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L324-L326)
+* [設定片段 / yakuake](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L324-L326)
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------------------- | ---------------------------- |

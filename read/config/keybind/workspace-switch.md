@@ -25,7 +25,7 @@ grand_parent: 設定
 
 ## 指定切換
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L79-L98)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L79-L98)
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
@@ -43,7 +43,7 @@ grand_parent: 設定
 
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L73-L74)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L73-L74)
 
 
 | 按鍵組合  | 功能                 | 執行指令                   |
@@ -52,7 +52,7 @@ grand_parent: 設定
 | `Alt + s` | 切換到下一個工作空間 | `Switch One Desktop to the Right=` |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc#L113-L114)
+* [設定片段](https://github.com/samwhelp/kubuntu-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L113-L114)
 
 | 按鍵組合  | 功能                 | 執行指令                   |
 | --------- | -------------------- | -------------------------- |

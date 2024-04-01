@@ -30,7 +30,7 @@ parent: 設定
 請參考「我的設定檔: [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main/config/kde-plasma-keybind/skel/.config/kglobalshortcutsrc)」。
 
 
-還有參考另一篇「[如何設定按鍵綁定](https://samwhelp.github.io/note-about-kubuntu/read/howto/config-keybind-by-command.html)」的說明。
+還有參考另一篇「[如何設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
 
 > [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
 
