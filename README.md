@@ -15,6 +15,7 @@
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
 * [輸入法](#輸入法)
+* [工具](#工具)
 * [相關筆記](#相關筆記)
 
 
@@ -46,6 +47,21 @@
 | [新酷音輸入法](https://samwhelp.github.io/note-about-kubuntu/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
 | [嘸蝦米輸入法](https://samwhelp.github.io/note-about-kubuntu/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-boshiamy) |
 | [輕鬆輸入法](https://samwhelp.github.io/note-about-kubuntu/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-easy-large) |
+
+
+
+
+## 工具
+
+| [工具](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part) | 分類 |
+| --- | --- | --- |
+| [krunner](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/krunner) | [Launcher](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/launcher.html) |
+| [dolphin](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/dolphin) | [File Manager](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/file-manager.html) |
+| [konsole](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/konsole) | [Terminal](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/terminal.html) |
+| [yakuake](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/yakuake) | [Terminal](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/terminal.html) |
+| [kate](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate) | [Text Editor](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor.html) |
+| [kwrite](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kwrite) | [Text Editor](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor.html) |
+| [gwenview](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/image-viewer.html) |
 
 
 
