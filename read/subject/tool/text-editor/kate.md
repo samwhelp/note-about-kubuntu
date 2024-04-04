@@ -30,15 +30,15 @@ grand_parent: 工具
 
 | Config File Path |
 | --- |
-| [~/.config/katerc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/asset/overlay/etc/skel/.config/katerc) |
-| [~/.local/share/kate/anonymous.katesession](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/asset/overlay/etc/skel/.local/share/kate/anonymous.katesession) |
+| [~/.config/katerc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/dark/kate/asset/overlay/etc/skel/.config/katerc) |
+| [~/.local/share/kate/anonymous.katesession](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/dark/kate/asset/overlay/etc/skel/.local/share/kate/anonymous.katesession) |
 
 
 ### Tool Bar
 
 | Config File Path |
 | --- |
-| [~/.local/share/kxmlgui5/kate/kateui.rc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/asset/overlay/etc/skel/.local/share/kxmlgui5/kate/kateui.rc) |
+| [~/.local/share/kxmlgui5/kate/kateui.rc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/dark/kate/asset/overlay/etc/skel/.local/share/kxmlgui5/kate/kateui.rc) |
 
 
 ## Link

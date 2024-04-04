@@ -30,4 +30,4 @@ grand_parent: 工具
 
 | Config File Path |
 | --- |
-| [~/.config/yakuakerc](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/tool/yakuake/asset/overlay/etc/skel/.config/yakuakerc) |
+| [~/.config/yakuakerc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/yakuake/asset/overlay/etc/skel/.config/yakuakerc) |

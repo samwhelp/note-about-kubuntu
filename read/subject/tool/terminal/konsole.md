@@ -39,5 +39,5 @@ grand_parent: 工具
 
 | Config File Path |
 | --- |
-| [~/.local/share/kxmlgui5/konsole/konsoleui.rc](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/tool/konsole/asset/overlay/etc/skel/.local/share/kxmlgui5/konsole/konsoleui.rc) |
-| [~/.local/share/kxmlgui5/konsole/sessionui.rc](https://github.com/samwhelp/note-about-kubuntu/blob/gh-pages/_demo/prototype/tool/konsole/asset/overlay/etc/skel/.local/share/kxmlgui5/konsole/sessionui.rc) |
+| [~/.local/share/kxmlgui5/konsole/konsoleui.rc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/konsole/asset/overlay/etc/skel/.local/share/kxmlgui5/konsole/konsoleui.rc) |
+| [~/.local/share/kxmlgui5/konsole/sessionui.rc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/konsole/asset/overlay/etc/skel/.local/share/kxmlgui5/konsole/sessionui.rc) |
