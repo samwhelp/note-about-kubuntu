@@ -17,6 +17,7 @@
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [工具](#工具)
+* [如何](#如何)
 * [相關筆記](#相關筆記)
 
 
@@ -72,6 +73,16 @@
 | [kate](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate) | [Text Editor](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor.html) |
 | [kwrite](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kwrite) | [Text Editor](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/text-editor.html) |
 | [gwenview](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-kubuntu/read/subject/tool/image-viewer.html) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-kubuntu/read/howto.html) |
+| ------- |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-kubuntu/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-kubuntu/read/howto/disable-keybind-open-main-menu.html) |
 
 
 
