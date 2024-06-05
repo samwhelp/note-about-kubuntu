@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 系統選單
 
-> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kubuntu/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
+> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/demo-config/keybind/demo-keybind-mode-dolphin)
 
 
 ## 顯示「視窗操作選單」

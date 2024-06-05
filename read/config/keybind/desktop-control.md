@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 桌面操作
 
-> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kubuntu/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
+> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/demo-config/keybind/demo-keybind-mode-dolphin)
 
 
 ## 桌面放大或縮小
