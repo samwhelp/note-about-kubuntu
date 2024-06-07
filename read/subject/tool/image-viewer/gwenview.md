@@ -2,7 +2,7 @@
 title: Gwenview
 nav_order: 3011
 has_children: false
-parent: Media Player
+parent: Image Viewer
 grand_parent: 工具
 ---
 
