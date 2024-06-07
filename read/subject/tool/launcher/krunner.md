@@ -10,10 +10,10 @@ grand_parent: 工具
 # Krunner
 
 
-## Subject
+## 主題
 
 * [微調腳本](#微調腳本)
-* [Config File Path](#config-file-path)
+* [設定檔路徑](#設定檔路徑)
 
 
 ## 微調腳本
@@ -23,11 +23,11 @@ grand_parent: 工具
 | [krunner](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/krunner) |
 
 
-## Config File Path
+## 設定檔路徑
 
 
 ### Normal
 
-| Config File Path |
+| 設定檔路徑 |
 | --- |
 | [~/.config/krunnerrc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/krunner/asset/overlay/etc/skel/.config/krunnerrc) |

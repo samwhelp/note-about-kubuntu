@@ -10,10 +10,10 @@ grand_parent: 工具
 # Kate
 
 
-## Subject
+## 主題
 
 * [微調腳本](#微調腳本)
-* [Config File Path](#config-file-path)
+* [設定檔路徑](#設定檔路徑)
 
 
 ## 微調腳本
@@ -23,12 +23,12 @@ grand_parent: 工具
 | [kate](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/) |
 
 
-## Config File Path
+## 設定檔路徑
 
 
 ### Normal
 
-| Config File Path |
+| 設定檔路徑 |
 | --- |
 | [~/.config/katerc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/dark/kate/asset/overlay/etc/skel/.config/katerc) |
 | [~/.local/share/kate/anonymous.katesession](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/dark/kate/asset/overlay/etc/skel/.local/share/kate/anonymous.katesession) |
@@ -36,7 +36,7 @@ grand_parent: 工具
 
 ### Tool Bar
 
-| Config File Path |
+| 設定檔路徑 |
 | --- |
 | [~/.local/share/kxmlgui5/kate/kateui.rc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/kate/dark/kate/asset/overlay/etc/skel/.local/share/kxmlgui5/kate/kateui.rc) |
 

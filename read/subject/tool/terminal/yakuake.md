@@ -10,10 +10,10 @@ grand_parent: 工具
 # Yakuake
 
 
-## Subject
+## 主題
 
 * [微調腳本](#微調腳本)
-* [Config File Path](#config-file-path)
+* [設定檔路徑](#設定檔路徑)
 
 
 ## 微調腳本
@@ -23,11 +23,11 @@ grand_parent: 工具
 | [yakuake](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/yakuake) |
 
 
-## Config File Path
+## 設定檔路徑
 
 
 ### Normal
 
-| Config File Path |
+| 設定檔路徑 |
 | --- |
 | [~/.config/yakuakerc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/yakuake/asset/overlay/etc/skel/.config/yakuakerc) |

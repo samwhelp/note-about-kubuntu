@@ -10,10 +10,10 @@ grand_parent: 工具
 # Dolphin
 
 
-## Subject
+## 主題
 
 * [微調腳本](#微調腳本)
-* [Config File Path](#config-file-path)
+* [設定檔路徑](#設定檔路徑)
 
 
 ## 微調腳本
@@ -23,12 +23,12 @@ grand_parent: 工具
 | [dolphin](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/dolphin/) |
 
 
-## Config File Path
+## 設定檔路徑
 
 
 ### Normal
 
-| Config File Path |
+| 設定檔路徑 |
 | --- |
 | [~/.config/dolphinrc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/dolphin/asset/overlay/etc/skel/.config/dolphinrc) |
 | [~/.local/share/dolphin/dolphinstaterc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/dolphin/asset/overlay/etc/skel/.local/share/dolphin/dolphinstaterc) |
@@ -37,7 +37,7 @@ grand_parent: 工具
 
 ### Tool Bar
 
-| Config File Path |
+| 設定檔路徑 |
 | --- |
 | [~/.local/share/kxmlgui5/dolphin/dolphinui.rc](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/tool-config/part/dolphin/asset/overlay/etc/skel/.local/share/kxmlgui5/dolphin/dolphinui.rc) |
 
