@@ -11,6 +11,20 @@ parent: 如何
 
 
 
+## 主題
+
+* [System Settings / Colors & Themes / Window Decorations](#system-settings--colors--themes--window-decorations)
+* [Window Decoration / Breeze](#window-decoration--breeze)
+* [Window Decoration / Oxygen](#window-decoration--oxygen)
+* [Window Decoration / Aurorae / Plastik](#window-decoration--aurorae--plastik)
+* [Window Decoration / Aurorae](#window-decoration--aurorae)
+* [Window Decoration / Aurorae / Orchis-dark](#window-decoration--aurorae--orchis-dark)
+* [Window Decoration / Aurorae / Vimix-Dark](#window-decoration--aurorae--vimix-dark)
+* [Window Decoration / Aurorae / Vimix-Light](#window-decoration--aurorae--vimix-light)
+
+
+
+
 ## System Settings / Colors & Themes / Window Decorations
 
 ``` sh
@@ -31,6 +45,7 @@ Colors & Themes / Window Decorations
 
 
 
+
 ## Window Decoration / Breeze
 
 ~/.config/kwinrc
@@ -40,6 +55,8 @@ Colors & Themes / Window Decorations
 library=org.kde.breeze
 theme=Breeze
 ```
+
+
 
 
 ## Window Decoration / Oxygen
@@ -181,6 +198,9 @@ kwin4_decoration_qml_plastik
 
 
 
+
+## Window Decoration / Aurorae
+
 ``` sh
 sudo apt-get install orchis-kde
 ```
@@ -238,6 +258,8 @@ Orchis_x1.5
 ```
 
 
+
+
 ## Window Decoration / Aurorae / Orchis-dark
 
 * ~/.config/kwinrc
@@ -247,6 +269,9 @@ Orchis_x1.5
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Orchis-dark
 ```
+
+
+
 
 ## Window Decoration / Aurorae / Orchis-dark-solid
 
@@ -293,7 +318,9 @@ Vimix-Ruby
 ```
 
 
-## Window Decoration / Aurorae / Vimix
+
+
+## Window Decoration / Aurorae / Vimix-Dark
 
 * ~/.config/kwinrc
 
@@ -305,7 +332,8 @@ theme=__aurorae__svg__Vimix
 
 
 
-## Window Decoration / Aurorae / Vimix
+
+## Window Decoration / Aurorae / Vimix-Light
 
 * ~/.config/kwinrc
 
