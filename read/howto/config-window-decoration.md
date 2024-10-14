@@ -266,7 +266,7 @@ git clone https://github.com/vinceliuice/Vimix-kde.git
 cp Vimix-kde/aurorae/. ~/.local/share/aurorae/themes -rf
 ```
 
-執行
+執行下面指令，觀看「[~/.local/share/aurorae/themes/](https://github.com/vinceliuice/Vimix-kde/tree/master/aurorae)」的資料夾結構。
 
 ``` sh
 ls -1 ~/.local/share/aurorae/themes/
