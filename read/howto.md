@@ -11,7 +11,11 @@ has_children: true
 ## 滑鼠按鍵綁定
 
 | 滑鼠按鍵綁定 |
-| ------- |
+| ----------- |
 | [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-kubuntu/read/howto/config-mouse-button-modifier.html) |
 | [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-kubuntu/read/howto/disable-keybind-open-main-menu.html) |
+
+
+| 外觀設定 |
+| ------- |
 | [設定「Window Decoration」](https://samwhelp.github.io/note-about-kubuntu/read/howto/config-window-decoration.html) |
