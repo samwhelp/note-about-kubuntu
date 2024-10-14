@@ -19,3 +19,6 @@ has_children: true
 | 外觀設定 |
 | ------- |
 | [設定「Window Decoration」](https://samwhelp.github.io/note-about-kubuntu/read/howto/config-window-decoration.html) |
+
+
+> 更多「[Howto](https://samwhelp.github.io/note-about-kde/read/howto.html)」
