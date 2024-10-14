@@ -22,6 +22,7 @@ parent: 如何
 * [Window Decoration / Aurorae / Vimix-Dark](#window-decoration--aurorae--vimix-dark)
 * [Window Decoration / Aurorae / Vimix-Light](#window-decoration--aurorae--vimix-light)
 * [探索紀錄](#探索紀錄)
+* [Ubuntu Package](#ubuntu-package)
 
 
 
@@ -115,7 +116,7 @@ theme=kwin4_decoration_qml_plastik
 
 * /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
 * 上面「`theme=kwin4_decoration_qml_plastik`」指的是「/usr/share/kwin/decorations/kwin4_decoration_qml_plastik」
-
+* Ubuntu Package: 「[kwin-data](https://packages.ubuntu.com/oracular/kwin-data)」
 
 
 
@@ -278,9 +279,13 @@ theme=__aurorae__svg__Vimix-Light
 
 ## 探索紀錄
 
+執行
+
 ``` sh
 dpkg -L kwin-common | grep plugin
 ```
+
+顯示
 
 ```
 /usr/lib/x86_64-linux-gnu/qt6/plugins
@@ -348,10 +353,13 @@ dpkg -L kwin-common | grep plugin
 /usr/lib/x86_64-linux-gnu/qt6/qml/org/kde/kwin/private/effects/libeffectsplugin.so
 ```
 
+執行
 
 ``` sh
 dpkg -L kwin-common | grep org.kde.kdecoration2
 ```
+
+顯示
 
 ```
 /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2
@@ -360,9 +368,13 @@ dpkg -L kwin-common | grep org.kde.kdecoration2
 /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2.kcm/kcm_auroraedecoration.so
 ```
 
+執行
+
 ``` sh
 ls -1 /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/
 ```
+
+顯示
 
 ```
 org.kde.breeze.so
@@ -370,32 +382,50 @@ org.kde.kwin.aurorae.so
 org.kde.oxygen.so
 ```
 
+執行
+
 ``` sh
 dpkg -S /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/
 ```
+
+顯示
 
 ```
 kwin-decoration-oxygen:amd64, kwin-common, kwin-style-breeze: /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2
 ```
 
+執行
 
 ``` sh
 dpkg -S /usr/share/kwin
 ```
 
+顯示
+
 ```
 kwin-addons:amd64, kwin-data: /usr/share/kwin
 ```
 
+執行
+
 ``` sh
 ls /usr/share/kwin/decorations/
 ```
+
+顯示
 
 ```
 kwin4_decoration_qml_plastik
 ```
 
 
+## Ubuntu Package
 
-
+| Ubuntu Package | 關聯檔案或資料夾 |
+| -------------- | -------------- |
+| [kwin-common](https://packages.ubuntu.com/oracular/kwin-common) | `/usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so` |
+| [kwin-data](https://packages.ubuntu.com/oracular/kwin-data) | `/usr/share/kwin/decorations/kwin4_decoration_qml_plastik` |
+| [kwin-style-breeze](https://packages.ubuntu.com/oracular/kwin-style-breeze) | `/usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.breeze.so` |
+| [kwin-decoration-oxygen](https://packages.ubuntu.com/oracular/kwin-decoration-oxygen) | `/usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.oxygen.so` |
+| [orchis-kde](https://packages.ubuntu.com/oracular/orchis-kde) | `/usr/share/aurorae/themes/Orchis` |
 
