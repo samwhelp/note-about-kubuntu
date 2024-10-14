@@ -16,11 +16,12 @@ parent: 如何
 * [System Settings / Colors & Themes / Window Decorations](#system-settings--colors--themes--window-decorations)
 * [Window Decoration / Breeze](#window-decoration--breeze)
 * [Window Decoration / Oxygen](#window-decoration--oxygen)
-* [Window Decoration / Aurorae / Plastik](#window-decoration--aurorae--plastik)
 * [Window Decoration / Aurorae](#window-decoration--aurorae)
+* [Window Decoration / Aurorae / Plastik](#window-decoration--aurorae--plastik)
 * [Window Decoration / Aurorae / Orchis-Dark](#window-decoration--aurorae--orchis-dark)
 * [Window Decoration / Aurorae / Vimix-Dark](#window-decoration--aurorae--vimix-dark)
 * [Window Decoration / Aurorae / Vimix-Light](#window-decoration--aurorae--vimix-light)
+* [探索紀錄](#探索紀錄)
 
 
 
@@ -69,7 +70,7 @@ systemsettings kcm_kwindecoration
 
 ## Window Decoration / Breeze
 
-~/.config/kwinrc
+> 設定片段：「~/.config/kwinrc」
 
 ``` ini
 [org.kde.kdecoration2]
@@ -77,11 +78,14 @@ library=org.kde.breeze
 theme=Breeze
 ```
 
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.breeze.so
+
 
 
 
 ## Window Decoration / Oxygen
 
+> 設定片段：「~/.config/kwinrc」
 
 ``` ini
 [org.kde.kdecoration2]
@@ -89,8 +93,19 @@ library=org.kde.oxygen
 theme=Oxygen
 ```
 
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.oxygen.so
+
+
+
+
+## Window Decoration / Aurorae
+
+
+
+
 ## Window Decoration / Aurorae / Plastik
 
+> 設定片段：「~/.config/kwinrc」
 
 ``` ini
 [org.kde.kdecoration2]
@@ -98,7 +113,170 @@ library=org.kde.kwin.aurorae
 theme=kwin4_decoration_qml_plastik
 ```
 
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* 上面「`theme=kwin4_decoration_qml_plastik`」指的是「/usr/share/kwin/decorations/kwin4_decoration_qml_plastik」
 
+
+
+
+## Window Decoration / Aurorae / Orchis-Dark
+
+> 設定片段：「~/.config/kwinrc」
+
+``` ini
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Orchis-dark
+```
+
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* 上面「`theme=__aurorae__svg__Orchis-dark`」指的是「/usr/share/aurorae/themes/Orchis-dark」
+
+
+執行下面指令，嘗試安裝「orchis-kde」
+
+``` sh
+sudo apt-get install orchis-kde
+```
+
+顯示
+
+```
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  qt6-style-kvantum qt6-style-kvantum-l10n
+Suggested packages:
+  orchis-gtk-theme
+The following NEW packages will be installed:
+  orchis-kde qt6-style-kvantum qt6-style-kvantum-l10n
+0 upgraded, 3 newly installed, 0 to remove and 0 not upgraded.
+Need to get 2976 kB of archives.
+After this operation, 12.2 MB of additional disk space will be used.
+Do you want to continue? [Y/n]
+```
+
+執行下面指令，嘗試安裝「orchis-gtk-theme」
+
+``` sh
+sudo apt-get install orchis-gtk-theme
+```
+
+顯示
+
+```
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  gnome-accessibility-themes gnome-themes-extra gnome-themes-extra-data
+The following NEW packages will be installed:
+  gnome-accessibility-themes gnome-themes-extra gnome-themes-extra-data orchis-gtk-theme
+0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+Need to get 3014 kB of archives.
+After this operation, 92.8 MB of additional disk space will be used.
+Do you want to continue? [Y/n]
+```
+
+若是安裝了「orchis-kde」，執行下面指令
+
+``` sh
+ls -1 /usr/share/aurorae/themes/
+```
+
+顯示
+
+```
+Orchis
+Orchis-dark
+Orchis-dark-solid
+Orchis-dark_Nvidia
+Orchis-dark_x1.25
+Orchis-dark_x1.5
+Orchis-solid
+Orchis_Nvidia
+Orchis_x1.25
+Orchis_x1.5
+```
+
+
+
+## Window Decoration / Aurorae / Orchis-dark-solid
+
+> 設定片段：「~/.config/kwinrc」
+
+``` ini
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Orchis-dark-solid
+```
+
+
+> 在「GitHub / vinceliuice / [repositories](https://github.com/vinceliuice?tab=repositories)」
+
+> 可以使用「關鍵字：　[kde](https://github.com/vinceliuice?tab=repositories&q=kde&type=&language=&sort=)」查詢
+
+
+``` sh
+mkdir -p ~/.local/share/aurorae/themes
+```
+
+* https://github.com/vinceliuice/Vimix-kde/tree/master/aurorae
+
+``` sh
+git clone https://github.com/vinceliuice/Vimix-kde.git
+```
+
+``` sh
+cp Vimix-kde/aurorae/. ~/.local/share/aurorae/themes -rf
+```
+
+``` sh
+ls -1 ~/.local/share/aurorae/themes/
+```
+
+```
+Vimix
+Vimix-Amethyst
+Vimix-Beryl
+Vimix-Doder
+Vimix-Jade
+Vimix-Light
+Vimix-Ruby
+```
+
+
+
+
+## Window Decoration / Aurorae / Vimix-Dark
+
+> 設定片段：「~/.config/kwinrc」
+
+``` ini
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Vimix
+```
+
+
+
+
+## Window Decoration / Aurorae / Vimix-Light
+
+> 設定片段：「~/.config/kwinrc」
+
+``` ini
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Vimix-Light
+```
+
+
+
+
+
+## 探索紀錄
 
 ``` sh
 dpkg -L kwin-common | grep plugin
@@ -220,146 +398,4 @@ kwin4_decoration_qml_plastik
 
 
 
-## Window Decoration / Aurorae
 
-``` sh
-sudo apt-get install orchis-kde
-```
-
-```
-Reading package lists... Done
-Building dependency tree... Done
-Reading state information... Done
-The following additional packages will be installed:
-  qt6-style-kvantum qt6-style-kvantum-l10n
-Suggested packages:
-  orchis-gtk-theme
-The following NEW packages will be installed:
-  orchis-kde qt6-style-kvantum qt6-style-kvantum-l10n
-0 upgraded, 3 newly installed, 0 to remove and 0 not upgraded.
-Need to get 2976 kB of archives.
-After this operation, 12.2 MB of additional disk space will be used.
-Do you want to continue? [Y/n]
-```
-
-``` sh
-sudo apt-get install orchis-gtk-theme
-```
-
-```
-Reading package lists... Done
-Building dependency tree... Done
-Reading state information... Done
-The following additional packages will be installed:
-  gnome-accessibility-themes gnome-themes-extra gnome-themes-extra-data
-The following NEW packages will be installed:
-  gnome-accessibility-themes gnome-themes-extra gnome-themes-extra-data orchis-gtk-theme
-0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
-Need to get 3014 kB of archives.
-After this operation, 92.8 MB of additional disk space will be used.
-Do you want to continue? [Y/n]
-```
-
-
-``` sh
-ls -1 /usr/share/aurorae/themes/
-```
-
-```
-Orchis
-Orchis-dark
-Orchis-dark-solid
-Orchis-dark_Nvidia
-Orchis-dark_x1.25
-Orchis-dark_x1.5
-Orchis-solid
-Orchis_Nvidia
-Orchis_x1.25
-Orchis_x1.5
-```
-
-
-
-
-## Window Decoration / Aurorae / Orchis-Dark
-
-* ~/.config/kwinrc
-
-``` ini
-[org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Orchis-dark
-```
-
-
-
-
-## Window Decoration / Aurorae / Orchis-dark-solid
-
-* ~/.config/kwinrc
-
-``` ini
-[org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Orchis-dark-solid
-```
-
-
-GitHub / vinceliuice / [repositories](https://github.com/vinceliuice?tab=repositories)
-
-[kde](https://github.com/vinceliuice?tab=repositories&q=kde&type=&language=&sort=)
-
-
-``` sh
-mkdir -p ~/.local/share/aurorae/themes
-```
-
-* https://github.com/vinceliuice/Vimix-kde/tree/master/aurorae
-
-``` sh
-git clone https://github.com/vinceliuice/Vimix-kde.git
-```
-
-``` sh
-cp Vimix-kde/aurorae/. ~/.local/share/aurorae/themes -rf
-```
-
-``` sh
-ls -1 ~/.local/share/aurorae/themes/
-```
-
-```
-Vimix
-Vimix-Amethyst
-Vimix-Beryl
-Vimix-Doder
-Vimix-Jade
-Vimix-Light
-Vimix-Ruby
-```
-
-
-
-
-## Window Decoration / Aurorae / Vimix-Dark
-
-* ~/.config/kwinrc
-
-``` ini
-[org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Vimix
-```
-
-
-
-
-## Window Decoration / Aurorae / Vimix-Light
-
-* ~/.config/kwinrc
-
-``` ini
-[org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Vimix-Light
-```
