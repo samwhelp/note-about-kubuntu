@@ -246,7 +246,7 @@ theme=__aurorae__svg__Orchis-dark-solid
 
 > 可以使用「關鍵字：　[kde](https://github.com/vinceliuice?tab=repositories&q=kde&type=&language=&sort=)」查詢
 
-> 可以找到「Vimix-kde / [aurorae](https://github.com/vinceliuice/Vimix-kde/tree/master/aurorae)」
+> 可以找到「vinceliuice / Vimix-kde / [aurorae](https://github.com/vinceliuice/Vimix-kde/tree/master/aurorae)」
 
 執行下面指令，產生「`~/.local/share/aurorae/themes`」這個資料夾。
 
