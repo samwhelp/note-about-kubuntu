@@ -18,7 +18,7 @@ parent: 如何
 * [Window Decoration / Oxygen](#window-decoration--oxygen)
 * [Window Decoration / Aurorae / Plastik](#window-decoration--aurorae--plastik)
 * [Window Decoration / Aurorae](#window-decoration--aurorae)
-* [Window Decoration / Aurorae / Orchis-dark](#window-decoration--aurorae--orchis-dark)
+* [Window Decoration / Aurorae / Orchis-Dark](#window-decoration--aurorae--orchis-dark)
 * [Window Decoration / Aurorae / Vimix-Dark](#window-decoration--aurorae--vimix-dark)
 * [Window Decoration / Aurorae / Vimix-Light](#window-decoration--aurorae--vimix-light)
 
@@ -49,6 +49,20 @@ Exec=systemsettings kcm_kwindecoration
 ``` sh
 systemsettings kcm_kwindecoration
 ```
+
+
+
+
+## Window Decorations
+
+| Window Decoration |
+| ----------------- |
+| [Breeze](#window-decoration--breeze) |
+| [Oxygen](#window-decoration--oxygen) |
+| [Aurorae / Plastik](#window-decoration--aurorae--plastik) |
+| [Aurorae / Orchis-Dark](#window-decoration--aurorae--orchis-dark) |
+| [Aurorae / Vimix-Dark](#window-decoration--aurorae--vimix-dark) |
+| [Aurorae / Vimix-Light](#window-decoration--aurorae--vimix-light) |
 
 
 
@@ -267,7 +281,7 @@ Orchis_x1.5
 
 
 
-## Window Decoration / Aurorae / Orchis-dark
+## Window Decoration / Aurorae / Orchis-Dark
 
 * ~/.config/kwinrc
 
