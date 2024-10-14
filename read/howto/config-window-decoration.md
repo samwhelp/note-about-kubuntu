@@ -45,7 +45,7 @@ theme=Breeze
 ## Window Decoration / Oxygen
 
 
-``` in
+``` ini
 [org.kde.kdecoration2]
 library=org.kde.oxygen
 theme=Oxygen
@@ -54,7 +54,7 @@ theme=Oxygen
 ## Window Decoration / Aurorae / Plastik
 
 
-``` in
+``` ini
 [org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=kwin4_decoration_qml_plastik
