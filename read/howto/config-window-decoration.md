@@ -80,6 +80,7 @@ theme=Breeze
 ```
 
 * /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.breeze.so
+* Ubuntu Package: 「[kwin-style-breeze](https://packages.ubuntu.com/oracular/kwin-style-breeze)」
 
 
 
@@ -95,11 +96,15 @@ theme=Oxygen
 ```
 
 * /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.oxygen.so
+* Ubuntu Package: 「[kwin-decoration-oxygen](https://packages.ubuntu.com/oracular/kwin-decoration-oxygen) 」
 
 
 
 
 ## Window Decoration / Aurorae
+
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* Ubuntu Package: 「[kwin-common](https://packages.ubuntu.com/oracular/kwin-common)」
 
 
 
@@ -115,24 +120,14 @@ theme=kwin4_decoration_qml_plastik
 ```
 
 * /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* Ubuntu Package: 「[kwin-common](https://packages.ubuntu.com/oracular/kwin-common)」
 * 上面「`theme=kwin4_decoration_qml_plastik`」指的是「/usr/share/kwin/decorations/kwin4_decoration_qml_plastik」
 * Ubuntu Package: 「[kwin-data](https://packages.ubuntu.com/oracular/kwin-data)」
 
 
 
-## Window Decoration / Aurorae / Orchis-Dark
 
-> 設定片段：「~/.config/kwinrc」
-
-``` ini
-[org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Orchis-dark
-```
-
-* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
-* 上面「`theme=__aurorae__svg__Orchis-dark`」指的是「/usr/share/aurorae/themes/Orchis-dark」
-
+## Window Decoration / Aurorae / Orchis
 
 執行下面指令，嘗試安裝「orchis-kde」
 
@@ -203,6 +198,24 @@ Orchis_x1.5
 
 
 
+
+## Window Decoration / Aurorae / Orchis-Dark
+
+> 設定片段：「~/.config/kwinrc」
+
+``` ini
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Orchis-dark
+```
+
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* Ubuntu Package: 「[kwin-common](https://packages.ubuntu.com/oracular/kwin-common)」
+* 上面「`theme=__aurorae__svg__Orchis-dark`」指的是「/usr/share/aurorae/themes/Orchis-dark」
+
+
+
+
 ## Window Decoration / Aurorae / Orchis-dark-solid
 
 > 設定片段：「~/.config/kwinrc」
@@ -213,6 +226,14 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Orchis-dark-solid
 ```
 
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* Ubuntu Package: 「[kwin-common](https://packages.ubuntu.com/oracular/kwin-common)」
+* 上面「`theme=__aurorae__svg__Orchis-dark-solid`」指的是「/usr/share/aurorae/themes/Orchis-dark-solid」
+
+
+
+
+## Window Decoration / Aurorae / Vimix
 
 > 在「GitHub / vinceliuice / [repositories](https://github.com/vinceliuice?tab=repositories)」
 
@@ -260,6 +281,10 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Vimix
 ```
 
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* Ubuntu Package: 「[kwin-common](https://packages.ubuntu.com/oracular/kwin-common)」
+* 上面「`theme=__aurorae__svg__Vimix`」指的是「~/.local/share/aurorae/themes/Vimix」
+
 
 
 
@@ -272,6 +297,10 @@ theme=__aurorae__svg__Vimix
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Vimix-Light
 ```
+
+* /usr/lib/x86_64-linux-gnu/qt6/plugins/org.kde.kdecoration2/org.kde.kwin.aurorae.so
+* Ubuntu Package: 「[kwin-common](https://packages.ubuntu.com/oracular/kwin-common)」
+* 上面「`theme=__aurorae__svg__Vimix-Light`」指的是「~/.local/share/aurorae/themes/Vimix-Light」
 
 
 
