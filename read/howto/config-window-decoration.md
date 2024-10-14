@@ -14,6 +14,7 @@ parent: 如何
 ## 主題
 
 * [System Settings / Colors & Themes / Window Decorations](#system-settings--colors--themes--window-decorations)
+* [Window Decorations](#window-decorations)
 * [Window Decoration / Breeze](#window-decoration--breeze)
 * [Window Decoration / Oxygen](#window-decoration--oxygen)
 * [Window Decoration / Aurorae](#window-decoration--aurorae)
