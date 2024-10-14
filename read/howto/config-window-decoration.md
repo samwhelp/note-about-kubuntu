@@ -27,21 +27,28 @@ parent: 如何
 
 ## System Settings / Colors & Themes / Window Decorations
 
+
+執行
+
 ``` sh
 grep '^Exec=' /usr/share/applications/kcm_kwindecoration.desktop
 ```
 
-show
+顯示
 
 ```
 Exec=systemsettings kcm_kwindecoration
 ```
 
+> 我們可以透過「`System Settings`」這個圖形界面程式，
+
+> 切換到「`Colors & Themes / Window Decorations`」這個頁面，來設定「Window Decoration」
+
+或是直接執行下面指令，也會開啟「`System Settings`」並且直接切換到「`Colors & Themes / Window Decorations`」這個頁面。
+
 ``` sh
 systemsettings kcm_kwindecoration
 ```
-
-Colors & Themes / Window Decorations
 
 
 
