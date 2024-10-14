@@ -61,7 +61,12 @@ systemsettings kcm_kwindecoration
 | ----------------- |
 | [Breeze](#window-decoration--breeze) |
 | [Oxygen](#window-decoration--oxygen) |
-| [Aurorae / Plastik](#window-decoration--aurorae--plastik) |
+| [Plastik](#window-decoration--aurorae--plastik) |
+
+
+
+| Window Decoration |
+| ----------------- |
 | [Aurorae / Orchis-Dark](#window-decoration--aurorae--orchis-dark) |
 | [Aurorae / Vimix-Dark](#window-decoration--aurorae--vimix-dark) |
 | [Aurorae / Vimix-Light](#window-decoration--aurorae--vimix-light) |
