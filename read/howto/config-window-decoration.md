@@ -42,7 +42,7 @@ grep '^Exec=' /usr/share/applications/kcm_kwindecoration.desktop
 Exec=systemsettings kcm_kwindecoration
 ```
 
-> 我們可以透過「`System Settings`」這個圖形界面程式，
+> 我們可以透過「`System Settings`」這個「圖形介面程式」，
 
 > 切換到「`Colors & Themes / Window Decorations`」這個頁面，來設定「Window Decoration」
 
