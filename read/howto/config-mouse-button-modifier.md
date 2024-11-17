@@ -93,6 +93,40 @@ CommandAllKey=Meta
 | `Mouse wheel:`   | `Change opacity`          |
 
 
+> 設定片段範例如下： 「`~/.config/kwinrc`」
+
+``` ini
+[MouseBindings]
+CommandAll1=Move
+CommandAll2=Toggle raise and lower
+CommandAll3=Resize
+CommandAllKey=Meta
+CommandAllWheel=Change Opacity
+CommandTitlebarWheel=Shade/Unshade
+```
+
+
+> 一些預設的動作，可以參考原始碼
+
+| 原始碼 |
+| ----- |
+| GitHub / KDE / kwin / src / [kwin.kcfg](https://github.com/KDE/kwin/blob/master/src/kwin.kcfg#L48-L56) |
+| invent.kde.org / kwin / src / [kwin.kcfg](https://invent.kde.org/plasma/kwin/-/blob/master/src/kwin.kcfg?ref_type=heads#L48-L56)
+
+
+``` xml
+        <entry name="CommandAll1" type="String">
+            <default>Move</default>
+        </entry>
+        <entry name="CommandAll2" type="String">
+            <default>Toggle raise and lower</default>
+        </entry>
+        <entry name="CommandAll3" type="String">
+            <default>Resize</default>
+        </entry>
+```
+
+
 
 
 ## 相關設定
