@@ -9,7 +9,7 @@
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 
 
-> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/read/cheatsheet/keybind.html)
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-kubuntu/read/cheatsheet/keybind.html)
 
 
 
