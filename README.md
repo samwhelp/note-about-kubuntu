@@ -31,7 +31,8 @@
 
 | 微調腳本 |
 | -------- |
-| [Kubuntu 24.04](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| [Kde Plasma Config](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
+| [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
