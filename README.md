@@ -17,6 +17,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [Resource](#resource)
 * [按鍵綁定](#按鍵綁定)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
@@ -33,6 +34,19 @@
 | -------- |
 | [Kde Plasma Config](https://github.com/samwhelp/kubuntu-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## Resource
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
 
 
 
@@ -100,6 +114,10 @@
 | [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
 | [Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-kde-plasma) |
 | [Kde Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
 | [EndeavourOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros-kde-plasma) |
 | [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
